@@ -1,0 +1,32 @@
+/* Button styling */
+#play-sound-button {
+    padding: 10px 20px;
+    font-size: 16px;
+    color: #fff;
+    background-color: #007BFF;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+#play-sound-button:hover {
+    background-color: #0056b3;
+}
+
+/* General styling for all sound buttons */
+.sound-button {
+    padding: 10px 20px;
+    font-size: 16px;
+    color: #fff;
+    background-color: #28a745;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin: 5px;
+    transition: background-color 0.3s ease;
+}
+
+.sound-button:hover {
+    background-color: #218838;
+}
